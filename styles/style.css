@@ -1,0 +1,58 @@
+/* section-believe starts */
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.section-believe {
+
+    background-image: url("images/banner/banner3.png");
+    width: 1600px;
+    height: 809px;
+    margin-left: 35px;
+    top: 0px;
+
+}
+
+.section-believe-title {
+    color: #FFFFFF;
+
+
+    width: 525px;
+    height: 228px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+}
+
+.section-believe-description {
+    color: #FFFFFF;
+    width: 500px;
+    height: 80px;
+    margin: 25px 0;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+    font-weight: 500;
+    font-family: 'Work Sans';
+    font-style: normal;
+}
+
+.btn-primary {
+    width: 150px;
+    height: 60px;
+    background-color: #FFFFFF;
+
+}
+
+.float-right {
+    direction: rtl;
+    text-align: right;
+    padding: 216px 230px 0;
+
+}
