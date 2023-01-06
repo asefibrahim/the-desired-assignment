@@ -10,7 +10,7 @@
     background-image: url("images/banner/banner3.png");
     width: 1600px;
     height: 809px;
-    margin-left: 35px;
+    margin: auto;
     top: 0px;
 
 }
@@ -21,7 +21,7 @@
 
     width: 525px;
     height: 228px;
-    font-family: 'Work Sans';
+
     font-style: normal;
     font-weight: 700;
     font-size: 65px;
@@ -39,7 +39,7 @@
     line-height: 26px;
 
     font-weight: 500;
-    font-family: 'Work Sans';
+
     font-style: normal;
 }
 
@@ -47,6 +47,8 @@
     width: 150px;
     height: 60px;
     background-color: #FFFFFF;
+    margin-top: 53px;
+    margin-bottom: 187px;
 
 }
 
@@ -56,3 +58,147 @@
     padding: 216px 230px 0;
 
 }
+
+/*  <!-- ending header area -->
+    <!-- starting  failer sectioin --> */
+.the-lady-with-failer {
+    display: flex;
+}
+
+.the-lady {
+    width: 570px;
+    height: 723px;
+    margin: 100px 0 0 200px;
+
+}
+
+.the-failer {
+    width: 416px;
+    height: 400px;
+    margin: 358px 300px 0 117px;
+
+}
+
+.the-failer-title {
+
+    font-style: normal;
+    width: 288px;
+    height: 94px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    margin-bottom: 24px;
+
+
+}
+
+.the-failer-description-1 {
+    margin-bottom: 14px;
+    color: #444343;
+    width: 416px;
+    height: 104px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.the-failer-description-2 {
+    width: 416px;
+    height: 104px;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 30px;
+
+    color: #444343;
+    line-height: 26px;
+
+}
+
+/* end of failer parrt --> */
+/* starting of achivment part --> */
+
+.achivment-content {
+    display: flex;
+    width: 1500px;
+    height: 1000px;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.achivment {
+    display: flex;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    font-size: 20px;
+    width: 1500px;
+    height: 1000px;
+    justify-content: space-between;
+    margin: auto;
+
+
+
+
+}
+
+.achivment-bar {
+    text-align: center;
+    font-size: 37px;
+    padding: 200px 0 50px 0;
+    width: 400px;
+    margin: auto;
+}
+
+
+
+.achivment-div {
+    width: 750px;
+    height: 400px;
+    margin-top: 120px;
+    background-color: beige;
+
+    padding: 50px 0 0 30px;
+    margin-right: 10px;
+
+}
+
+.achivment-heading {
+    font-size: 25px;
+    margin-bottom: 10px;
+
+}
+
+.short-title {
+    margin-bottom: 30px;
+
+}
+
+.elaborate-title {
+    margin-bottom: 20px;
+}
+
+.experience-div {
+    width: 750px;
+    height: 400px;
+    margin-top: 120px;
+    background-color: rgb(203, 239, 239);
+
+    padding: 50px 0 0 30px;
+
+}
+
+.experience-heading {
+    font-size: 25px;
+    margin-bottom: 10px;
+
+
+}
+
+.experience-title {
+    margin-bottom: 30px;
+}
+
+.experience-sub-title {
+    margin-bottom: 20px;
+}
+
+/* end of achivment part */
