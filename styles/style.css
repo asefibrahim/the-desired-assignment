@@ -49,6 +49,12 @@
     background-color: #FFFFFF;
     margin-top: 53px;
     margin-bottom: 187px;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 23px;
+    border-radius: 5px;
+    color: #005FAC;
+    border: 5px solid white;
 
 }
 
@@ -107,11 +113,17 @@
     height: 104px;
     font-weight: 400;
     font-size: 16px;
-    margin-top: 30px;
+    margin-top: 50px;
 
     color: #444343;
     line-height: 26px;
 
+}
+
+.fa-solid {
+    width: 24px;
+    height: 22.52px;
+    color: green;
 }
 
 /* end of failer parrt --> */
@@ -130,7 +142,7 @@
     margin-top: 200px;
     margin-bottom: 100px;
     font-size: 20px;
-    width: 1500px;
+    width: 1140px;
 
     justify-content: space-between;
     margin: auto;
@@ -150,14 +162,16 @@
 
 
 
-.achivment-div {
-    width: 750px;
+.education-div {
+    width: 570px;
     height: 400px;
     margin-top: 120px;
-    background-color: beige;
+    background-color: rgb(148, 208, 232);
+    border-radius: 10px;
 
     padding: 50px 0 0 30px;
     margin-right: 10px;
+
 
 }
 
@@ -177,10 +191,11 @@
 }
 
 .experience-div {
-    width: 750px;
+    width: 570px;
     height: 400px;
     margin-top: 120px;
     background-color: rgb(203, 239, 239);
+    border-radius: 10px;
 
     padding: 50px 0 0 30px;
 
@@ -272,6 +287,7 @@
     background: #FFFFFF;
     border-radius: 5px;
     margin: 24px 0 0 50px;
+    border: 5px solid white;
 
 
 }
@@ -279,7 +295,7 @@
 .btn-primary2,
 a {
     font-weight: 600;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 23px;
     text-align: center;
 
@@ -299,11 +315,14 @@ a {
 .footer-div {
     width: 485px;
     height: 317px;
+
     padding: 130px 0 0 250px;
-
-
-
 }
+
+
+
+
+
 
 .footer-title {
     margin-bottom: 25px;
@@ -321,9 +340,11 @@ a {
 .input-and-btn {
     width: 325px;
     height: 204px;
+
+    color: #FFFFFF;
     margin-left: 355px;
     margin-top: 130px;
-    color: #FFFFFF;
+
 }
 
 .placeholder {
@@ -342,10 +363,10 @@ a {
     height: 40px;
 
     color: #FFFFFF;
-    ont-weight: 600;
+    font-weight: 600;
     font-size: 15px;
     line-height: 24px;
     background: #005FAC;
     border-radius: 8px;
 
-}
+    /* }end footer 2 */
