@@ -1,7 +1,7 @@
 /* section-believe starts */
 * {
     margin: 0;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'work sans', sans-serif;
 
 }
 
@@ -12,6 +12,7 @@
     height: 809px;
     margin: auto;
     top: 0px;
+    padding-left: 60px;
 
 }
 
@@ -190,6 +191,12 @@
     margin-bottom: 20px;
 }
 
+.title-description {
+    color: #444343;
+    font-size: 15px;
+}
+
+
 .experience-div {
     width: 570px;
     height: 400px;
@@ -216,6 +223,11 @@
     margin-bottom: 20px;
 }
 
+.derscription {
+    color: #444343;
+    font-size: 15px;
+}
+
 /* end of achivment part */
 /* starting of my plan */
 .my-plan {
@@ -238,6 +250,7 @@
 .plan-for-ecomers {
     width: 285px;
     text-align: center;
+    padding-right: 10px;
 
 }
 
@@ -316,7 +329,7 @@ a {
     width: 485px;
     height: 317px;
 
-    padding: 130px 0 0 250px;
+    padding: 130px 0 0 170px;
 }
 
 
@@ -350,8 +363,10 @@ a {
 .placeholder {
     width: 300px;
     height: 50px;
-    border-radius: 5px;
-    color: #FFFFFF;
+
+    background-color: black;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
 }
 
 .text-color {
